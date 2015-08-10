@@ -1,4 +1,6 @@
-% gen_area.erl
+% 1> c(gen_area).
+% {ok,gen_area}
+
 -module(gen_area).
 -export([behaviour_info/1]).
 

@@ -1,3 +1,8 @@
+% 1> c(area_square).
+% {ok,area_square}
+% 2> area_square:calculate({10}).
+% 100
+
 -module(area_square).
 -behaviour(gen_area).
 -export([calculate/1]).
